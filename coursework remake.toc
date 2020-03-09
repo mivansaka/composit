@@ -1,5 +1,7 @@
 \contentsline {section}{\numberline {1}General description and requirement}{1}%
 \contentsline {section}{\numberline {2}Design approach and theory}{1}%
-\contentsline {subsection}{\numberline {2.1}Case 1: Internal pressure of 3 MPa (ends closed)}{2}%
-\contentsline {subsection}{\numberline {2.2}Case 2:Axial compression of $P =25 kN$}{3}%
-\contentsline {section}{\numberline {3} Results and analysis to prove the success of the design }{3}%
+\contentsline {subsection}{\numberline {2.1}Case 1: Internal pressure of 3 MPa (ends closed)}{3}%
+\contentsline {subsection}{\numberline {2.2}Case 2:Axial compression of $P =25 kN$}{4}%
+\contentsline {subsection}{\numberline {2.3}The maximum angle of twist without failure}{4}%
+\contentsline {section}{\numberline {3} Results and analysis to prove the success of the design }{4}%
+\contentsline {section}{\numberline {A}Appendix}{4}%
